@@ -1,2 +1,2 @@
-# YBI_Internship_projects
-These are the YBI Foundation internship projects on the topic of Business Analytics.
+# Business_Analytics_Projects
+These are the projects on the topic of Business Analytics.
